@@ -1,7 +1,4 @@
 ﻿/*
-Вот пример кода на языке C#, который выполняет автоматическую рассылку резюме компаниям на сайте hh.ru каждый день в 8:55 утра по московскому времени:
-
-```csharp
 using System;
 using System.Collections.Generic;
 using System.Linq;
