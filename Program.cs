@@ -88,4 +88,5 @@ public class Program
                 // Ожидаем до заданного времени отправки
                 var timeUntilDesired = desiredTime - currentTime;
                 Thread.Sleep(timeUntil);
+                }}}}
 */
